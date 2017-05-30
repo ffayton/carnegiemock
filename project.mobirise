@@ -1039,7 +1039,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x4008.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1055,7 +1055,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"mailto:sbeavan@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x4005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x4009.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
