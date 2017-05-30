@@ -1,0 +1,1155 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 31,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-422x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://carnegiescience.edu",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NAVIGATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facts.html\">FACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacts.html\">CONTACTS<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"http://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEMEX USERS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;JOB STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SYSTEM STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendar.google.com/calendar/embed?src=carnegiescience.edu_mi56ptashg58aqjac68i2afo10%40group.calendar.google.com&amp;ctz=America/New_York\"><p>&nbsp;&nbsp;&nbsp;&nbsp;CALENDAR<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://carnegiescience.freshservice.com/support/home\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SUBMIT A TICKETS<br></p></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Memex Cluster",
+          "text": "Memex is a high performance computing (HPC) cluster administered by Carnegie Information Systems staff. It is available to all Carnegie staff for their research. There are 102 shared compute nodes available to all researchers. The cluster was purchased from Dell and installed in early January of 2016. It has been in production since late January 2016.&nbsp;",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">FAQs</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1400x966.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "PAST: MEMEX CONCEPT",
+          "text": "<p>From <a href=\"https://en.wikipedia.org/wiki/Memex\" target=\"_blank\">Memex Wiki:</a>:&nbsp;<br>The memex (a portmanteau of \"memory\" and \"index\") is the name of the hypothetical proto-hypertext system that Vannevar Bush described in his 1945 The Atlantic Monthly article \"As We May Think\". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, \"mechanized so that it may be consulted with exceeding speed and flexibility.\" The memex would provide an \"enlarged intimate supplement to one's memory\". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages, and lacked a true hypertext system where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it...<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://en.wikipedia.org/wiki/Memex\" data-toolbar=\"-mbrBtnMove\">FULL WIKI</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-price-value": {
+              "font-size": "13px"
+            },
+            ".mbr-price-figure": {
+              "font-size": "13px"
+            },
+            ".mbr-plan-title": {
+              "font-size": "18px"
+            },
+            "UL": {
+              "font-size": "13px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": false,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "PRESENT: MEMEX SPECS",
+          "subtitle": "Current Memex Resources<br>",
+          "label1": "HOT!",
+          "title1": "COMPUTE/GPU NODES",
+          "subtitle1": "100 / 2",
+          "currency1": "",
+          "price1": "Dell PowerEdge R430 (100)<br>&nbsp;<br>Dell PowerEdge R730 -&nbsp;<br>NVIDIA Tesla 1x K80 (2)",
+          "period1": "",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Intel Xeon E5-2680 2.5 GHz (100)</li><li class=\"list-group-item\">Intel Xeon E5-2670 2.3GHz (2)</li><li class=\"list-group-item\">1.6TB SSD</li><li class=\"list-group-item\">8x16GB 2133MT/s RDIMM</li><li class=\"list-group-item\">Broadcom 1 GigE Controller</li><li class=\"list-group-item\">Mellanox MT27500 Connect3X</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "LOGIN/MASTER NODES",
+          "subtitle2": "<p>1 / 1</p>",
+          "currency2": "",
+          "price2": "Dell PowerEdge R430 1U (1)<br><br>&nbsp; &nbsp;Dell PowerEdge R430 1U (1)<br>",
+          "period2": "",
+          "description2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Intel Xeon E5-2680 v3 2.5 GHz</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">1.6TB SSD &nbsp;x 3</span><br></li><li class=\"list-group-item\">8x16GB 2133MT/s RDIMM</li><li class=\"list-group-item\">Broadcom 1 GigE Controller</li><li class=\"list-group-item\">Mellanox MT27500 Connect3X</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "NETWORK SWITCHES",
+          "subtitle3": "17",
+          "currency3": "",
+          "price3": "MT SX6036&nbsp;FDR Managed (2)<br><br>MT SX60252 FDR Unmanaged (11)<br><br>Dell S4810 10GbE (1)<br><br>Dell&nbsp;S3048-ON Gigabit (3)<br><br>Dell Force10 S55 for Base Storage (1)<br>",
+          "period3": "",
+          "description3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">0.5m-5m FDR Cables</li><li class=\"list-group-item\">Connects Local Storage &amp; Network</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "PARALLEL FILESYSTEM",
+          "subtitle4": "5&nbsp;",
+          "currency4": "",
+          "price4": "Dell PowerVault MD3460 (2)<br><br>Dell&nbsp;PowerVaultMD3060E (2)<br><br>Dell&nbsp;PowerVault MD3420 (1)<br>",
+          "period4": "",
+          "description4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Lustre Filesytem v2.5.34.1</span></li><li class=\"list-group-item\">800TB Raw Storage</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "FUTURE: MEMEX EXPANSION",
+          "subtitle": "If you would like to discuss the future of Memex and/or HPC at Carnegie, please enter you email below.",
+          "form": {
+            "action": "ffayton@carnegiescience.edu",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e",
+            "showMeta": false
+          },
+          "title": "Memex Location:<br><i><a href=\"https://srcc.stanford.edu/about/computing-support-research\">Stanford's Research Computing Facility</a></i>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-b",
+          "_params": {
+            "googleMap": {
+              "address": "Stanford's Reseach Computing Facility, Menlo Park, CA 94025",
+              "placeId": "ChIJr6nM-_ekj4ARd9CH6Te8p8w",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-2",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1190.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Shaun Beavan",
+          "subtitle1": "Information Systems Manager at Headquarters",
+          "caption1": "\"Stuff here.\"",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:sbeavan@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Floyd Fayton",
+          "subtitle2": "HPC Systems Administrator at Headquarters",
+          "caption2": "\"Stuff here.\"",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:ffayton@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Garret Huntress",
+          "subtitle3": "Information Systems Manager at Global Ecology and Plant Biology",
+          "caption3": "\"Stuff here.\"",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:ghuntress@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "facts.html": {
+      "settings": {
+        "title": "Memex Facts",
+        "meta_descr": "Memex Infrastructure and Resources"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "48px"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box4-u",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#2e2e2e",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/7gW_p5FVOMk",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "WHAT CAN MEMEX DO?<br>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Here's an example of smooth particle hydrodynamics. &nbsp;This is a simulation of the Moon's formation&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">following impact of </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Mars-sized object. (Miki Nakajima, DTM)</span><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-4",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-422x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://carnegiescience.edu",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NAVIGATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facts.html\">FACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacts.html\">CONTACTS<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"http://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEMEX USERS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;JOB STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SYSTEM STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendar.google.com/calendar/embed?src=carnegiescience.edu_mi56ptashg58aqjac68i2afo10%40group.calendar.google.com&amp;ctz=America/New_York\"><p>&nbsp;&nbsp;&nbsp;&nbsp;CALENDAR<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://carnegiescience.freshservice.com/support/home\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SUBMIT A TICKETS<br></p></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#2e2e2e",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "MORE FACTS:<br>",
+          "caption": "<p></p><p>Memex is located on Stanford University's campus and hosted by the Stanford Research Computing Facility (SRCF). The SRCF data center provides secured access, 24/7 monitoring and assistance, controlled temperature within ASHREA A1 parameters, sufficient power and UPS, backup generators and fire detection/suppression in case of fire. &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">The SRCF has multiple redundant 10 gigabit networks linking to the Stanford campus backbone, the Internet, and other national networks. Connectivity at 100 gigabits to Intenet2 and the CENIC regional network is in place, connecting the building to national and California Universities at very high speed. Connectivity to the Memex cluster from the Internet and from our Stanford departments is provided via redundant 10 gigabit links. &nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Memex also uses SLURM as its main job scheduler and Intel/GCC compilers work in tangent with OpenMPI, OpenMP, and several research software packages and libraries.</span></p><p></p>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-5",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017."
+        }
+      ]
+    },
+    "faq.html": {
+      "settings": {
+        "title": "Memex FAQs",
+        "meta_descr": "Frequently Asked Questions about Memex"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-422x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://carnegiescience.edu",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NAVIGATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facts.html\">FACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacts.html\">CONTACTS<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"http://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEMEX USERS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;JOB STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SYSTEM STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendar.google.com/calendar/embed?src=carnegiescience.edu_mi56ptashg58aqjac68i2afo10%40group.calendar.google.com&amp;ctz=America/New_York\"><p>&nbsp;&nbsp;&nbsp;&nbsp;CALENDAR<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://carnegiescience.freshservice.com/support/home\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SUBMIT A TICKETS<br></p></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017."
+        }
+      ]
+    },
+    "contacts.html": {
+      "settings": {
+        "title": "How to Contact Memex Support",
+        "meta_descr": "Memex Support"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-h",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-422x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://carnegiescience.edu",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NAVIGATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facts.html\">FACTS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacts.html\">CONTACTS<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"http://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEMEX USERS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;JOB STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SYSTEM STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendar.google.com/calendar/embed?src=carnegiescience.edu_mi56ptashg58aqjac68i2afo10%40group.calendar.google.com&amp;ctz=America/New_York\"><p>&nbsp;&nbsp;&nbsp;&nbsp;CALENDAR<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://carnegiescience.freshservice.com/support/home\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SUBMIT A TICKETS<br></p></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-r",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1104.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "CONTACT US",
+          "text": "<p>If you have questions about Memex, please email</p><p><a href=\"mailto:memex-discuss@carnegiescience.edu\">memex-discuss@carnegiescience.edu</a><a href=\"mailto:memexsupport@carnegiescience.edu\"></a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-o",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgColor": "#585858",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x4000.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Shaun Beavan",
+          "subtitle1": "Information Systems Manager at Headquarters",
+          "caption1": "\"Stuff here.\"",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:sbeavan@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x4001.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Floyd Fayton",
+          "subtitle2": "HPC Systems Administrator at Headquarters",
+          "caption2": "\"Stuff here.\"",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:ffayton@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Garret Huntress",
+          "subtitle3": "Information Systems Manager at Global Ecology and Plant Biology",
+          "caption3": "\"Stuff here.\"",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:ghuntress@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        }
+      ]
+    }
+  }
+}
