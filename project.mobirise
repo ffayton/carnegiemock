@@ -149,61 +149,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Memex Cluster",
-          "text": "Memex is a high performance computing (HPC) cluster administered by Carnegie Information Systems staff. It is available to all Carnegie staff for their research. There are 102 shared compute nodes available to all researchers. The cluster was purchased from Dell and installed in early January of 2016. It has been in production since late January 2016.&nbsp;",
+          "title": "MEMEX Cluster",
+          "text": "Memex is a high-performance computing (HPC) cluster administered by Carnegie Information Systems staff. It is available to all Carnegie staff for their research. There are 102 shared compute nodes available to all researchers. The cluster was purchased from Dell and installed in early January of 2016. It has been in use since late January 2016.&nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">FAQs</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-0",
-          "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1400x966.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "PAST: MEMEX CONCEPT",
-          "text": "<p>From <a href=\"https://en.wikipedia.org/wiki/Memex\" target=\"_blank\">Memex Wiki:</a>:&nbsp;<br>The memex (a portmanteau of \"memory\" and \"index\") is the name of the hypothetical proto-hypertext system that Vannevar Bush described in his 1945 The Atlantic Monthly article \"As We May Think\". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, \"mechanized so that it may be consulted with exceeding speed and flexibility.\" The memex would provide an \"enlarged intimate supplement to one's memory\". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages, and lacked a true hypertext system where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it...<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://en.wikipedia.org/wiki/Memex\" data-toolbar=\"-mbrBtnMove\">FULL WIKI</a>"
         },
         {
           "_styles": {
@@ -259,7 +207,7 @@
             "thirdType": "",
             "fourthType": ""
           },
-          "title": "PRESENT: MEMEX SPECS",
+          "title": "RESOURCES: MEMEX",
           "subtitle": "Current Memex Resources<br>",
           "label1": "HOT!",
           "title1": "COMPUTE/GPU NODES",
@@ -297,6 +245,58 @@
           "description4": "",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Lustre Filesytem v2.5.34.1</span></li><li class=\"list-group-item\">800TB Raw Storage</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1400x966.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "HISTORY: MEMEX CONCEPT",
+          "text": "<p>From <a href=\"https://en.wikipedia.org/wiki/Memex\" target=\"_blank\">Memex Wiki:</a><br>The memex (a portmanteau of \"memory\" and \"index\") is the name of the hypothetical proto-hypertext system that Vannevar Bush described in his 1945 The Atlantic Monthly article \"As We May Think\". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, \"mechanized so that it may be consulted with exceeding speed and flexibility.\" The memex would provide an \"enlarged intimate supplement to one's memory\". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages, and lacked a true hypertext system where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it...<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://en.wikipedia.org/wiki/Memex\" data-toolbar=\"-mbrBtnMove\">FULL WIKI</a>"
         },
         {
           "_styles": {
@@ -1039,7 +1039,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x4008.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x40010.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1055,7 +1055,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"mailto:sbeavan@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x4009.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x40011.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
