@@ -149,7 +149,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "MEMEX Cluster",
+          "title": "Memex Cluster",
           "text": "Memex is a high-performance computing (HPC) cluster administered by Carnegie Information Systems staff. It is available to all Carnegie staff for their research. There are 102 shared compute nodes available to all researchers. The cluster was purchased from Dell and installed in early January of 2016. It has been in use since late January 2016.&nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">FAQs</a>"
         },
@@ -442,7 +442,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sbeavan-staff-picture-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1039,7 +1039,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x40010.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1055,7 +1055,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"mailto:sbeavan@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x40011.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x4000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
