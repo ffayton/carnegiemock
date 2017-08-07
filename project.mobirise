@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOR MEMEX USERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-1\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacts.html\">CONTACTS<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"http://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEMEX USERS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;JOB STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SYSTEM STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendar.google.com/calendar/embed?src=carnegiescience.edu_mi56ptashg58aqjac68i2afo10%40group.calendar.google.com&amp;ctz=America/New_York\"><p>&nbsp;&nbsp;&nbsp;&nbsp;CALENDAR<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://carnegiescience.freshservice.com/support/home\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SUBMIT A TICKETS<br></p></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEMEX HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOR MEMEX USERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#map1-b\">CONTACTS<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEMEX HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
         },
         {
           "_name": "header1",
@@ -297,50 +297,6 @@
           "title": "HISTORY: MEMEX CONCEPT",
           "text": "<p>From <a href=\"https://en.wikipedia.org/wiki/Memex\" target=\"_blank\">Memex Wiki:</a><br>The memex (a portmanteau of \"memory\" and \"index\") is the name of the hypothetical proto-hypertext system that Vannevar Bush described in his 1945 The Atlantic Monthly article \"As We May Think\". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, \"mechanized so that it may be consulted with exceeding speed and flexibility.\" The memex would provide an \"enlarged intimate supplement to one's memory\". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages, and lacked a true hypertext system where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it...<br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://en.wikipedia.org/wiki/Memex\" data-toolbar=\"-mbrBtnMove\">FULL WIKI</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-e",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "FUTURE: MEMEX EXPANSION",
-          "subtitle": "If you would like to discuss the future of Memex and/or HPC at Carnegie, please enter you email below.",
-          "form": {
-            "action": "ffayton@carnegiescience.edu",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email Address..."
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_styles": {
@@ -524,6 +480,50 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "FUTURE: MEMEX EXPANSION",
+          "subtitle": "If you would like to discuss the future of Memex and/or HPC at Carnegie, please enter you email below.",
+          "form": {
+            "action": "ffayton@carnegiescience.edu",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         }
       ]
     },
@@ -680,7 +680,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOR MEMEX USERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-1\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacts.html\">CONTACTS<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"http://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEMEX USERS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;JOB STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SYSTEM STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendar.google.com/calendar/embed?src=carnegiescience.edu_mi56ptashg58aqjac68i2afo10%40group.calendar.google.com&amp;ctz=America/New_York\"><p>&nbsp;&nbsp;&nbsp;&nbsp;CALENDAR<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://carnegiescience.freshservice.com/support/home\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SUBMIT A TICKETS<br></p></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEMEX HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOR MEMEX USERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#map1-b\">CONTACTS<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEMEX HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
         },
         {
           "_styles": {
@@ -830,7 +830,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOR MEMEX USERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-1\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacts.html\">CONTACTS<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"http://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEMEX USERS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;JOB STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SYSTEM STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendar.google.com/calendar/embed?src=carnegiescience.edu_mi56ptashg58aqjac68i2afo10%40group.calendar.google.com&amp;ctz=America/New_York\"><p>&nbsp;&nbsp;&nbsp;&nbsp;CALENDAR<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://carnegiescience.freshservice.com/support/home\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SUBMIT A TICKETS<br></p></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEMEX HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOR MEMEX USERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#map1-b\">CONTACTS<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEMEX HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
         },
         {
           "_name": "footer1",
@@ -945,7 +945,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOR MEMEX USERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-1\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacts.html\">CONTACTS<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"http://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEMEX USERS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;JOB STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SYSTEM STATUS<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendar.google.com/calendar/embed?src=carnegiescience.edu_mi56ptashg58aqjac68i2afo10%40group.calendar.google.com&amp;ctz=America/New_York\"><p>&nbsp;&nbsp;&nbsp;&nbsp;CALENDAR<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://carnegiescience.freshservice.com/support/home\"><p>&nbsp;&nbsp;&nbsp;&nbsp;SUBMIT A TICKETS<br></p></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEMEX HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">FOR MEMEX USERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#map1-b\">CONTACTS<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEMEX HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
         },
         {
           "_name": "footer1",
