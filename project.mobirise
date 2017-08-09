@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#7e9b9f",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#ffffff",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -19,10 +19,13 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#2e2e2e"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 37,
     "versionPublish": "4.1.1"
   },
   "pages": {
@@ -79,7 +82,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#7e9b9f!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -124,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HPC @ Carnegie Science<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Memex Users</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-2\">CONTACTS<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HPC @ Carnegie Science<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Memex Users</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-2\">CONTACTS<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
         },
         {
           "_name": "header1",
@@ -152,6 +155,134 @@
           "title": "<br>HPC @ Carnegie Science<br><br>",
           "text": "Memex is a high-performance computing (HPC) cluster administered by Carnegie Science. &nbsp;Since 2015, Carnegie Science has provided computational resources to all of its research scientists to aid in solving their most challenging and data-intensive calculations. &nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">FAQs</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1400x966.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "HISTORY: MEMEX CONCEPT",
+          "text": "<p>From <a href=\"https://en.wikipedia.org/wiki/Memex\" target=\"_blank\">Memex Wiki:</a><br>The memex (a portmanteau of \"memory\" and \"index\") is the name of the hypothetical proto-hypertext system that Vannevar Bush described in his 1945 The Atlantic Monthly article \"As We May Think\". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, \"mechanized so that it may be consulted with exceeding speed and flexibility.\" The memex would provide an \"enlarged intimate supplement to one's memory\". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages, and lacked a true hypertext system where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it...<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://en.wikipedia.org/wiki/Memex\" data-toolbar=\"-mbrBtnMove\">FULL WIKI</a>"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#2e2e2e",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/jXmtGodSOjo",
+                "title": "Imaging: Hormone Signal Transduction<br><br>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "3D reconstruction of an Arabidopsis root expressing a marker for the cell membrane (cyan) and a marker for the signal transduction protein Bzr1 (magenta). When Bzr1 is activated as a result of upstream steroid hormone perception, it translocates into the cell nucleus, where it acts as part of a central signal processing module to integrate perception of other signals that regulate growth, including light. Quantifying the movement of Bzr1 from the cytosol to the nucleus allows for dynamic visualization of steroid signaling on the level of individual cells. The spheres show nuclei that are identified by image analysis. While a promising start for measuring Bzr1 translocation, further improvements in image analysis are needed, including robust segmentation of the outlines of individual cells, and tools to track and analyze patterns as a function of tissue architecture. Optimization is also required to allow for the efficient processing of very large datasets. This image is just one time point of a large image series.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/3sWm1r2NhAU",
+                "title": "Analyzing Observatory Data:",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Removal of gas from a galaxy disk as that galaxy falls into a large galaxy cluster (via the process of ram pressure stripping). Movie credit: Stephanie Tonnesen (Alvin E. Nashman Postdoctoral Fellow; OBS), made using the yt of Turk et al. 2011). ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/galaxymock-1000x1000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Optimizing galaxy formation:",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br>Observatories researchers have developed models which describe the formation and evolution of galaxies in the Universe. One application of these models is to construct virtual universes by running on top of the latest generation of cosmological N-body simulations of dark matter. Such virtual universes (an example of which is shown at right) will be used to directly compare to the results of forthcoming galaxy surveys (e.g. LSST, DES, etc.).",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-10"
         },
         {
           "_styles": {
@@ -245,58 +376,6 @@
           "description4": "",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Lustre Filesytem v2.5.34.1</span></li><li class=\"list-group-item\">800TB Raw Storage</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-0",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
-            "imageSize": 50,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.3
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1400x966.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "HISTORY: MEMEX CONCEPT",
-          "text": "<p>From <a href=\"https://en.wikipedia.org/wiki/Memex\" target=\"_blank\">Memex Wiki:</a><br>The memex (a portmanteau of \"memory\" and \"index\") is the name of the hypothetical proto-hypertext system that Vannevar Bush described in his 1945 The Atlantic Monthly article \"As We May Think\". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, \"mechanized so that it may be consulted with exceeding speed and flexibility.\" The memex would provide an \"enlarged intimate supplement to one's memory\". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages, and lacked a true hypertext system where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it...<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://en.wikipedia.org/wiki/Memex\" data-toolbar=\"-mbrBtnMove\">FULL WIKI</a>"
         },
         {
           "_name": "footer1",
@@ -598,7 +677,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HPC @ Carnegie Science<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Memex Users</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-2\">CONTACTS<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HPC @ Carnegie Science<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Memex Users</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-2\">CONTACTS<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
         },
         {
           "_styles": {
@@ -748,7 +827,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HPC @ Carnegie Science<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Memex Users</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-2\">CONTACTS<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HPC @ Carnegie Science<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Memex Users</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-2\">CONTACTS<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
         },
         {
           "_name": "footer1",
@@ -863,7 +942,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HPC @ Carnegie Science<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Memex Users</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-2\">CONTACTS<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HPC @ Carnegie Science<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://memexsupport.carnegiescience.edu\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Memex Users</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-a\">RESOURCES<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-0\">HISTORY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-2\">CONTACTS<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br><br></a></li>"
         },
         {
           "_name": "footer1",
