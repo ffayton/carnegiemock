@@ -341,7 +341,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Memex Configuration",
+          "title": "MEMEX SPECIFICATIONS",
           "subtitle": "108 Teraflops theoretical CPU performance / 5.82 Teraflops theoretical GPU performance<br>",
           "label1": "HOT!",
           "title1": "COMPUTE/GPU NODES",
