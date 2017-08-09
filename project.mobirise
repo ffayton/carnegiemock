@@ -234,7 +234,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -246,20 +246,6 @@
                 "text": "Removal of gas from a galaxy disk as that galaxy falls into a large galaxy cluster (via the process of ram pressure stripping). Movie credit: Stephanie Tonnesen (Alvin E. Nashman Postdoctoral Fellow; OBS), made using the yt of Turk et al. 2011). ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#000000"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/galaxymock-1000x1000.jpg",
@@ -274,6 +260,20 @@
                 "contentAlign": "center",
                 "text": "<br>Observatories researchers have developed models which describe the formation and evolution of galaxies in the Universe. One application of these models is to construct virtual universes by running on top of the latest generation of cosmological N-body simulations of dark matter. Such virtual universes (an example of which is shown at right) will be used to directly compare to the results of forthcoming galaxy surveys (e.g. LSST, DES, etc.).",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/OnA1KbaliJM",
+                "title": "Developments in software design:",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "We seek to expand the capabilities existing computational methods for all computational platforms, as well as interface with new codes that allow the multidimensional visualization of the numerical data. &nbsp;This movie shows the evolution over 4 billion years of Earth history, with the Earth becoming overall lighter in color with age. The 2D simulation of convection in Earth’s interior, with the core at the center (not modeled). &nbsp;Movie: &nbsp;Erik Hauri, DTM",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
