@@ -22,7 +22,9 @@
       },
       "additionalSetColors": [
         "#2e2e2e",
-        "#979797"
+        "#979797",
+        "#000002",
+        "#232323"
       ]
     },
     "versionFirst": "3.12.1",
@@ -155,59 +157,7 @@
           },
           "title": "<br>HPC @ Carnegie Science<br><br>",
           "text": "Memex is a high-performance computing (HPC) cluster administered by Carnegie Science. &nbsp;Since 2015, Carnegie Science has provided computational resources to all of its research scientists to aid in solving their most challenging and data-intensive calculations. &nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">Memex Defined</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider3-10\" data-toolbar=\"-mbrBtnMove\">Research Examples</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table1-a\" data-toolbar=\"-mbrBtnMove\">Current Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features1-2\" data-toolbar=\"-mbrBtnMove\">Support</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-0",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
-            "imageSize": 50,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.3
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1400x966.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "HISTORY: MEMEX CONCEPT",
-          "text": "<p>From <a href=\"https://en.wikipedia.org/wiki/Memex\" target=\"_blank\">Memex Wiki:</a><br>The memex (a portmanteau of \"memory\" and \"index\") is the name of the hypothetical proto-hypertext system that Vannevar Bush described in his 1945 The Atlantic Monthly article \"As We May Think\". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, \"mechanized so that it may be consulted with exceeding speed and flexibility.\" The memex would provide an \"enlarged intimate supplement to one's memory\". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages, and lacked a true hypertext system where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it...<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://en.wikipedia.org/wiki/Memex\" data-toolbar=\"-mbrBtnMove\">FULL WIKI</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider3-10\" data-toolbar=\"-mbrBtnMove\">Research Examples</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">Memex Defined</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table1-a\" data-toolbar=\"-mbrBtnMove\">Current Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features1-2\" data-toolbar=\"-mbrBtnMove\">Support</a>"
         },
         {
           "_params": {
@@ -284,6 +234,58 @@
           ],
           "_name": "slider3",
           "_anchor": "slider3-10"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1400x966.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "MEMEX CONCEPT",
+          "text": "<p>From <a href=\"https://en.wikipedia.org/wiki/Memex\" target=\"_blank\">Memex Wiki:</a><br>The memex (a portmanteau of \"memory\" and \"index\") is the name of the hypothetical proto-hypertext system that <a href=\"https://www.google.com/search?client=safari&amp;rls=en&amp;q=vannevar+bush&amp;ie=UTF-8&amp;oe=UTF-8\">Vannevar Bush</a> described in his 1945 The Atlantic Monthly article \"As We May Think\". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, \"mechanized so that it may be consulted with exceeding speed and flexibility.\" The memex would provide an \"enlarged intimate supplement to one's memory\". The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software. The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static microfilm pages, and lacked a true hypertext system where parts of pages would have internal structure beyond the common textual format. Early electronic hypertext systems were thus inspired by memex rather than modeled directly upon it...<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://en.wikipedia.org/wiki/Memex\" data-toolbar=\"-mbrBtnMove\">FULL WIKI</a>"
         },
         {
           "_styles": {
@@ -426,10 +428,10 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1190.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#232323",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
