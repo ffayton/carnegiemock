@@ -421,7 +421,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": true,
             "columnsColor": "#2e2e2e",
             "paddingTop": 2,
@@ -486,7 +486,7 @@
           },
           "title3": "Garret Huntress",
           "subtitle3": "Information Systems Manager at Global Ecology and Plant Biology",
-          "caption3": "\"Stuff here.\"",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"mailto:ghuntress@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media4": {
             "image": {
