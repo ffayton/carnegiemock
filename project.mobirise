@@ -453,7 +453,7 @@
             }
           },
           "title1": "Shaun Beavan",
-          "subtitle1": "Information Systems Manager at Headquarters",
+          "subtitle1": "Senior Information Systems Manager <br>Headquarters",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"mailto:sbeavan@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media2": {
@@ -469,7 +469,7 @@
             }
           },
           "title2": "Floyd Fayton",
-          "subtitle2": "HPC Systems Administrator at Headquarters",
+          "subtitle2": "HPC Systems Administrator <br>Headquarters",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"mailto:ffayton@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media3": {
@@ -485,7 +485,7 @@
             }
           },
           "title3": "Garret Huntress",
-          "subtitle3": "Information Systems Manager at Global Ecology and Plant Biology",
+          "subtitle3": "Information Systems Manager<br>Global Ecology and Plant Biology",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"mailto:ghuntress@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media4": {
