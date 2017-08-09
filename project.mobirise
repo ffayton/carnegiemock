@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#2e2e2e"
+        "#2e2e2e",
+        "#979797"
       ]
     },
     "versionFirst": "3.12.1",
@@ -338,8 +339,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "RESOURCES: MEMEX",
-          "subtitle": "Current Memex Resources<br>",
+          "title": "Memex Configuration",
+          "subtitle": "108 Teraflops theoretical CPU performance / 5.82 Teraflops theoretical GPU performance<br>",
           "label1": "HOT!",
           "title1": "COMPUTE/GPU NODES",
           "subtitle1": "100 / 2",
@@ -407,7 +408,7 @@
               "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#ffffff"
+              "color": "#979797"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "color": "#ffffff"
@@ -451,11 +452,11 @@
           },
           "title1": "Shaun Beavan",
           "subtitle1": "Information Systems Manager at Headquarters",
-          "caption1": "\"Stuff here.\"",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"mailto:sbeavan@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ffayton-150x150.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-08-09-at-11.48.04-am-314x214.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -467,7 +468,7 @@
           },
           "title2": "Floyd Fayton",
           "subtitle2": "HPC Systems Administrator at Headquarters",
-          "caption2": "\"Stuff here.\"",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"mailto:ffayton@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media3": {
             "image": {
