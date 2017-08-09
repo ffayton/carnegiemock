@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -507,13 +507,6 @@ h6,
 #pricing-table1-a UL {
   font-size: 13px;
 }
-#header3-d .mbr-section-title,
-#header3-d .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-d H3 {
-  color: #ffffff;
-}
 #features1-2 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
@@ -525,12 +518,6 @@ h6,
 }
 #features1-2 .mbr-cards-col:nth-child(even) .card-title {
   color: #ffffff;
-}
-#form2-e .mbr-section-title {
-  color: #fff;
-}
-#form2-e .mbr-section-subtitle {
-  color: #a0a0a0;
 }
 #msg-box4-u H3 {
   color: #ffffff;
