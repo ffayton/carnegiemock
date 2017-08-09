@@ -177,7 +177,7 @@
                 "showTitle": true,
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/jXmtGodSOjo",
-                "title": "Imaging: Hormone Signal Transduction<br><br>",
+                "title": "<br>Imaging: Hormone Signal Transduction<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "3D reconstruction of an Arabidopsis root expressing a marker for the cell membrane (cyan) and a marker for the signal transduction protein Bzr1 (magenta). When Bzr1 is activated as a result of upstream steroid hormone perception, it translocates into the cell nucleus, where it acts as part of a central signal processing module to integrate perception of other signals that regulate growth, including light. Quantifying the movement of Bzr1 from the cytosol to the nucleus allows for dynamic visualization of steroid signaling on the level of individual cells. The spheres show nuclei that are identified by image analysis. While a promising start for measuring Bzr1 translocation, further improvements in image analysis are needed, including robust segmentation of the outlines of individual cells, and tools to track and analyze patterns as a function of tissue architecture. Optimization is also required to allow for the efficient processing of very large datasets. This image is just one time point of a large image series.",
@@ -233,7 +233,12 @@
             "Theme"
           ],
           "_name": "slider3",
-          "_anchor": "slider3-10"
+          "_anchor": "slider3-10",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
