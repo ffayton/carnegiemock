@@ -236,10 +236,10 @@
           "_anchor": "slider3-10",
           "_styles": {
             "P": {
-              "text-align": "right"
+              "text-align": "center"
             },
             "H2": {
-              "text-align": "right"
+              "text-align": "center"
             }
           }
         },
