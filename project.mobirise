@@ -116,7 +116,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/white_logo-422x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-422x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://carnegiescience.edu",
@@ -239,7 +239,7 @@
               "text-align": "left"
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "left"
             }
           }
         },
@@ -450,7 +450,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sbeavan_staff_picture-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sbeavan-staff-picture-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -466,7 +466,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"mailto:sbeavan@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-08-09%20at%2011.48.04%20am-314x214.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-08-09-at-11.48.04-am-314x214.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -674,7 +674,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/white_logo-422x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-422x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://carnegiescience.edu",
@@ -824,7 +824,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/white_logo-422x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-422x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://carnegiescience.edu",
@@ -939,7 +939,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/white_logo-422x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-422x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://carnegiescience.edu",
@@ -1051,7 +1051,7 @@
           },
           "media1": {
             "image": {
-              "src": "file:///Users/ffayton/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1067,7 +1067,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"mailto:sbeavan@carnegiescience.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL</a>",
           "media2": {
             "image": {
-              "src": "file:///Users/ffayton/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
