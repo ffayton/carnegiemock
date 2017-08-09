@@ -236,6 +236,9 @@
           "_anchor": "slider3-10",
           "_styles": {
             "P": {
+              "text-align": "left"
+            },
+            "H2": {
               "text-align": "center"
             }
           }
